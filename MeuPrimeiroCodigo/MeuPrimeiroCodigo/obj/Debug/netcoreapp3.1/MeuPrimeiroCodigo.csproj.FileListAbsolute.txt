@@ -1,0 +1,16 @@
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\netcoreapp3.1\MeuPrimeiroCodigo.exe
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\netcoreapp3.1\MeuPrimeiroCodigo.deps.json
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\netcoreapp3.1\MeuPrimeiroCodigo.runtimeconfig.json
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\netcoreapp3.1\MeuPrimeiroCodigo.runtimeconfig.dev.json
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\netcoreapp3.1\MeuPrimeiroCodigo.dll
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\bin\Debug\netcoreapp3.1\MeuPrimeiroCodigo.pdb
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.csproj.AssemblyReference.cache
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.Form1.resources
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.csproj.GenerateResource.cache
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.AssemblyInfoInputs.cache
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.AssemblyInfo.cs
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.dll
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.pdb
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.genruntimeconfig.cache
+C:\Users\Entra21\source\repos\MeuPrimeiroCodigo\MeuPrimeiroCodigo\obj\Debug\netcoreapp3.1\MeuPrimeiroCodigo.Properties.Resources.resources
